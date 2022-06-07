@@ -11,6 +11,7 @@ public class Switch {
         int day = input.nextInt();
         //normal switch method
 
+        //Testing comment in git
 
         switch (fruit) {
             case "Ma":
